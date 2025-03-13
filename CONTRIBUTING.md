@@ -10,14 +10,14 @@ By participating in this project, you agree to abide by our Code of Conduct. Ple
 
 ### Reporting Bugs
 
-- Check if the bug has already been reported in the [Issues](https://github.com/yourusername/telegrampy/issues).
+- Check if the bug has already been reported in the [Issues](https://github.com/l1v0n1/telegrampy/issues).
 - If not, create a new issue with a clear title and description.
 - Include steps to reproduce the bug, expected behavior, and actual behavior.
 - Include code samples, error messages, and screenshots if applicable.
 
 ### Suggesting Features
 
-- Check if the feature has already been suggested in the [Issues](https://github.com/yourusername/telegrampy/issues).
+- Check if the feature has already been suggested in the [Issues](https://github.com/l1v0n1/telegrampy/issues).
 - If not, create a new issue with a clear title and description.
 - Explain why this feature would be useful to most users.
 - Provide examples of how the feature would work.
@@ -34,7 +34,7 @@ By participating in this project, you agree to abide by our Code of Conduct. Ple
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/telegrampy.git
+   git clone https://github.com/l1v0n1/telegrampy.git
    cd telegrampy
    ```
 

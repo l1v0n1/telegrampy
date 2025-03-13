@@ -14,11 +14,11 @@ setup(
     description="A modern, asynchronous Python framework for building Telegram bots",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/telegrampy",
+    url="https://github.com/l1v0n1/telegrampy",
     project_urls={
-        "Bug Tracker": "https://github.com/yourusername/telegrampy/issues",
+        "Bug Tracker": "https://github.com/l1v0n1/telegrampy/issues",
         "Documentation": "https://telegrampy.readthedocs.io/",
-        "Source Code": "https://github.com/yourusername/telegrampy",
+        "Source Code": "https://github.com/l1v0n1/telegrampy",
     },
     packages=find_packages(),
     classifiers=[
